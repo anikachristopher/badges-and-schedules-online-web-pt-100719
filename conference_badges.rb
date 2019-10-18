@@ -21,8 +21,8 @@ return room_assignment
 end
 
 def printer(speakers, room_assignment)
-  prints batch_badge_creator
-  prints assign_rooms
+  puts batch_badge_creator
+  puts assign_rooms
 end
 
 
